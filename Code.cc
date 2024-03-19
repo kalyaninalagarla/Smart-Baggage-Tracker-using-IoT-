@@ -1,6 +1,5 @@
 #include<string.h>
 #include <LiquidCrystal.h>
-
 LiquidCrystal lcd(5, 4, 3, 2, A4, A5);
 
 String ssid     = "Simulator Wifi";  
